@@ -2,7 +2,7 @@
 
 ## Notes
 
-- [YOLO v1](notes/yolo.md)
+- [YOLO v1](notes/YOLO.md)
 
 ## Read but no notes
 
